@@ -1,5 +1,7 @@
-# *Starting.*
+<img src="https://wallpaperaccess.com/full/4698675.gif" >
 
-<img height="500em" src="http://pa1.narvii.com/7317/ae54f0ebac5a28f2e552d138f484a7a02afad082r1-480-270_00.gif" alt="gif">
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riorq00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riorq00&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
